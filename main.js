@@ -23,6 +23,7 @@ function draw() {
     }
   }
 
+  bird.think(pipes);
   bird.update();
   bird.show();
 
@@ -31,8 +32,10 @@ function draw() {
   }
 }
 
+/* Might delete this
 function keyPressed() {
   if (key == " ") {
     bird.up();
   }
 }
+*/
