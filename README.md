@@ -10,3 +10,5 @@ I'm trying to build a genetic neural network using the good old natural selectio
 Everything is done with Javascript, using the [P5.js](https://p5js.org/) creative coding library on DOM, and Daniel Shiffman's [Toy-Neural-Network](https://github.com/CodingTrain/Toy-Neural-Network-JS) for those brainly brains thoughts.  
 
 You can contribute as you will!  
+
+*The project is currently stuck cause I suck in math.*
